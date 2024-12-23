@@ -27,99 +27,54 @@ As an aspiring Data Analyst, I developed Power BI reports that deliver crucial i
 <br/>**<h3>Home Page</h3>** 
 
 <p align="center">
-  <img src="HomePage_updated.png" title="Home Page" >
+  <img src="Homepage_Sales.png" title="Home Page" >
 </p>
 
-<br/><h3>Finance View: Financial planning and Expense Management </h3> 
-Analyze Profit & Loss statements, Net Sales trends, and top-performing products and customers by various criteria.
-
-Implemented a financial forecasting model, resulting in more accurate budget predictions. Created benchmarking against last year and target goals for budgeting.
-
-**Finance view**
+<br/>**<h3>Sales</h3>** 
 
 <p align="center">
-  <img src="Finance_view_updated.png" title="Finance View" >
+  <img src="Sales_sales.png" title="Sales" >
 </p>
 
-<br/><h3>Sales View: Increase sales revenue with Customer and Product Performance </h3>
-Examine Customer and Product performance, with insights into Net Sales, Gross Margin %, and unit economics, including COGS and deductions.
-
-Created customer and product overall sales performance report. Identified sales trends and track KPIs.
-
-**Sales View**
+<br/>**<h3>Trends</h3>** 
 
 <p align="center">
-  <img src="Sales View.png" title="Sales View" >
+  <img src="Trend_sales.png" title="Trends" >
 </p>
 
-<br/><h3>Marketing View: Implement data-driven marketing strategies</h3>
-Gain a comprehensive view of Product, Market, Regional, and Customer performance, while tracking GM% and NP% across segments. Delve into unit economics with detailed COGS, operational expenses, and NP analysis.
-
-Created region and product wise overall market performance report and unit economics. Identified market trends and track KPIs.
-
-**Marketing view**
+<br/>**<h3>Category</h3>** 
 
 <p align="center">
-  <img src="Marketting View.png" title="Marketting View" >
+  <img src="Category_sales.png" title="Category" >
 </p>
 
-<br/><h3>Supply Chain View: Optimization metrics for efficient supply chain management.</h3>
-Track Forecast Accuracy, Net Error, and Absolute Error metrics. Observe Accuracy and Net Error trends and review metrics by product for supply chain optimization.
-
-Identified forecast accuracy % , net error % ,absolute error % trends. Key Metrices by customers and products demanding supply management.
-
-**Supply Chain View**
+<br/>**<h3>Product</h3>** 
 
 <p align="center">
-  <img src="Supply Chain View.png" title="Supply Chain View" >
+  <img src="product_sales.png" title="Product" >
 </p>
 
-<br/><h3>Executive View: Metrics critical for top-level decision-makers.</h3>
-Developed an executive dashboard for real-time performance monitoring. Shows revenue by division, customers , products and channels.
-
-Developed an executive dashboard for real-time performance monitoring. Shows revenue by division, customers , products and channels.
-
-**Executive View**
+<br/>**<h3>Location</h3>** 
 
 <p align="center">
-  <img src="Executive View.png" title="Executive View" >
+  <img src="location_sales.png" title="Location" >
 </p>
 
-# Skills
-<h3>Power BI fundamentals</h3>
-1.Creating calcualted columns and DAX measures<br/>
+<br/>**<h3>Shipping</h3>** 
 
-2.Data Modelling ,data validation techniques and using KPI indicators
+<p align="center">
+  <img src="shipping_sales.png" title="Shipping" >
+</p>
 
-3.Using bookmarks to switch between two visuals and conditional formatting
+# Features
+1. Interactive Data Visualization: Visualize sales data through dynamic charts and graphs.
+   
+2. Filter and Search: Easily filter data by date, product category, region, and more.
 
-4.Page navigation with buttons
+3. Sales Trends: Analyze sales trends over time to make informed decisions.
+   
+4. Customer Insights: Gain insights into customer behavior and demographics.
 
-5.Using tooltips to save page area
+5. Product Performance: Evaluate the performance of different product categories.
 
-6.Dynamic titles based on the applied filters
-
-7.PowerBI services for publishing and sharing reports online
-
-8.Auto refresh setup for data through gateway
-
-# Business Terminology
-1.Net sales and Net Invoice Sales
-
-2.Gross Margin and Gross Margin %
-
-3.Pre invoice deductions and Post invoice deductions
-
-4.COGS(cost of goods sold)
-
-5.Net Profit and Net Profit %
-
-6.Absolute Error
-
-7.Variance and Targets
-
-8.YTG (year to go)
-
-9.YTD ( year to date)
-
-10.Direct ,retailer, customer , consumer and distributors
+6. Export Data: Download selected data for further analysis.
