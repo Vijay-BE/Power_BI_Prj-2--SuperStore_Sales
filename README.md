@@ -8,11 +8,7 @@ SuperStore Sales - Power BI Project
 
 **Live Dashboard Link**: [Link](https://app.powerbi.com/groups/me/reports/d7d1ee26-87ad-418a-9d52-16bcff23ce51/af22ef29294bb3acb0a9?experience=power-bi)
 
-**Linkedin Profile Link**: [Link](www.linkedin.com/in/vijay-v-534666209)
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/vijay-v-534666209"
+**Linkedin Profile Link**: [Link](https://www.linkedin.com/in/vijay-v-534666209)
 
 # Brief overview of the project:
 
