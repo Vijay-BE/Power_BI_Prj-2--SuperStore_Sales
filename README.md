@@ -6,7 +6,7 @@ I'm excited to present SuperStore Sales Dashboard, a comprehensive Power BI proj
 
 SuperStore Sales - Power BI Project
 
-**Live Dashboard Link**: [Link](https://app.powerbi.com/groups/me/reports/d7d1ee26-87ad-418a-9d52-16bcff23ce51/30c33ba3b914e95c2937?experience=power-bi)
+**Live Dashboard Link**: [Link](https://app.powerbi.com/view?r=eyJrIjoiMmQ5NmQxYjMtYjk0ZS00ZDUyLWIwODEtNDEzMDk2NGIxMmQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 **Linkedin Profile Link**: [Link](https://www.linkedin.com/in/vijay-v-534666209)
 
