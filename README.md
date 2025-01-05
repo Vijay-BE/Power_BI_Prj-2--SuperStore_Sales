@@ -27,7 +27,7 @@ As an aspiring Data Analyst, I developed Power BI reports that deliver crucial i
 <br/>**<h3>Home Page</h3>** 
 
 <p align="center">
-  <img src="Homepage_Sales.png" title="Home Page" >
+  <img src="Sales_Homepage.png" title="Home Page" >
 </p>
 
 <br/>**<h3>Sales</h3>** 
