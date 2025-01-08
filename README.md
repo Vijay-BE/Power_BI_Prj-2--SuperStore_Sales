@@ -19,8 +19,6 @@ This project will showcases the potential of Power BI in transforming data into 
 # <h3> Project Overview<br/> </h3>
 Superstore Sales is a data visualization and analysis project, create an interactive dashboard for exploring and analyzing sales data from a superstore. This project aims to provide an easy-to-use interface for users to gain insights into sales trends, Sales performance, product performance, Shipping analysis and Location analysis.
 
-𝗧𝗼𝗼𝗹𝘀 𝗨𝘀𝗲𝗱 : SQL, Power BI Desktop, Excel, DAX language
-
 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻 :
 As an aspiring Data Analyst, I developed Power BI reports that deliver crucial insights into sales trends, Sales performance, product performance, Shipping analysis and Location analysis. These reports track essential KPIs, enabling informed, data-driven decisions across the company.
 
